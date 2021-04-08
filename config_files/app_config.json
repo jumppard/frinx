@@ -1,0 +1,3 @@
+{
+  "relevant_interface_types": ["Port-channel", "TenGigabitEthernet", "GigabitEthernet"]
+}
